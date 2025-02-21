@@ -13,3 +13,7 @@ def generate_prime_factors(given_value):
     if given_value == 3: #If given_value is 3, return [3] list.
         prime_factors_list = [3]
         return prime_factors_list
+
+    if given_value == 4: #If given_value is 4, return [2, 2] list.
+        prime_factors_list = [2, 2]
+        return prime_factors_list

@@ -24,3 +24,8 @@ def test_prime_factors_2_list():
 def test_prime_factors_3_list():
     my_test_list = [3]
     assert my_test_list == prime.generate_prime_factors(3)
+
+#Test 5
+def test_prime_factors_4_list():
+    my_test_list = [2, 2]
+    assert my_test_list == prime.generate_prime_factors(4)
