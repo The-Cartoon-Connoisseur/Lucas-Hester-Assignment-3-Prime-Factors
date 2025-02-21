@@ -37,6 +37,7 @@
   "keyToString": {
     "Python tests.Python tests in Lucas Hester Assignment 3 Prime Factors.executor": "Run",
     "Python tests.Python tests in test_generate_prime_factors.py.executor": "Run",
+    "Python.prime.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"

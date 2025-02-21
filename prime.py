@@ -5,3 +5,7 @@ def generate_prime_factors(given_value):
     if given_value == 1: #If given_value is 1, return an empty list.
         prime_factors_list = []
         return prime_factors_list
+
+    if given_value == 2: #If given_value is 2, return [2] list.
+        prime_factors_list = [2]
+        return prime_factors_list
