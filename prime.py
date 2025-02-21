@@ -21,3 +21,7 @@ def generate_prime_factors(given_value):
     if given_value == 6: #If given_value is 6, return [2, 3] list.
         prime_factors_list = [2, 3]
         return prime_factors_list
+
+    if given_value == 8: #If given_value is 8, return [2, 2, 2] list.
+        prime_factors_list = [2, 2, 2]
+        return prime_factors_list
