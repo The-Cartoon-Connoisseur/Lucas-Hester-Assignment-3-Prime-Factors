@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4c4bc236-a273-49b4-a1ad-264f6a680341" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/prime.py" beforeDir="false" afterPath="$PROJECT_DIR$/prime.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_generate_prime_factors.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_generate_prime_factors.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +44,7 @@
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.prime">
+  <component name="RunManager" selected="Python tests.Python tests in test_generate_prime_factors.py">
     <configuration name="prime" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Lucas Hester Assignment 3 Prime Factors" />
       <option name="ENV_FILES" value="" />
@@ -98,8 +99,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.prime" />
         <item itemvalue="Python tests.Python tests in test_generate_prime_factors.py" />
+        <item itemvalue="Python.prime" />
         <item itemvalue="Python tests.Python tests in Lucas Hester Assignment 3 Prime Factors" />
       </list>
     </recent_temporary>
